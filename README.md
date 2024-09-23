@@ -7,7 +7,7 @@ This project generates pcitures using AWS Lambda and the Stability AI Stable Dif
 3. **Storage:** The image is saved to an S3 bucket and a pre-signed URL is returned.
 
 ## API Gateway Setup
-See the detailed steps to set up the API Gateway in the [api_gateway_steps.md](api_gateway_steps.md) file.
+See the detailed steps to set up the API Gateway in the [API_gateway_howto.md](API_gateway_howto.md) file.
 
 ## Broad Implementation Overview
 1. Create an S3 bucket
@@ -31,7 +31,7 @@ See the detailed steps to set up the API Gateway in the [api_gateway_steps.md](a
 ![An image of a unicorn with rainbow background in the style of Dr Seuss](images/image3.png)
 
 ## Code
-The code used in the Lambda function can be found in the [lambda_function.py](lambda_function.py) file.
+The code used in the Lambda function can be found in the [lambda_function_image_generation_usecase.py](lambda_function_image_generation_usecase.py) file.
 
 ## How to Use
 1. Clone this repository.
