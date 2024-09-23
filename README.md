@@ -39,3 +39,7 @@ The code used in the Lambda function can be found in the [lambda_function_image_
 3. Set up the API Gateway and invoke the Lambda function using a tool like Postman.
 4. View the generated images in your S3 bucket or through the pre-signed URLs.
 
+## Reference Documentation Used for writing Lambda function 
+* Bedrock Runtime - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/bedrock-runtime.html
+* S3 - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3.html
+
