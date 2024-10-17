@@ -1,4 +1,4 @@
-# Movie Poster Design Project
+# Animated Movie Poster Design Project
 This project generates pcitures using AWS Lambda and the Stability AI Stable Diffusion model from AWS Bedrock. The generated images are stored in an S3 bucket, and a pre-signed URL is returned to access them.
 
 ## How It Works
