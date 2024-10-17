@@ -21,13 +21,13 @@ See the detailed steps to set up the API Gateway in the [API_gateway_howto.md](A
 
 ## Examples of Generated Images
 
-### Prompt: "A futuristic cityscape"
+### Prompt: "A purple unicorn"
 ![Image of a unicorn](images/image1.png)
 
-### Prompt: "A magical forest with glowing trees"
+### Prompt: "a white unicorn"
 ![Image of a purple unicorn](images/image2.png)
 
-### Prompt: "An ancient warrior standing on a cliff"
+### Prompt: "a unicorn in Dr.Seuss style"
 ![An image of a unicorn with rainbow background in the style of Dr Seuss](images/image3.png)
 
 ## Code
