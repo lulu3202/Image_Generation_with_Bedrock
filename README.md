@@ -5,8 +5,7 @@ This project generates pcitures using AWS Lambda and the Stability AI Stable Dif
 1. **Input:** A text prompt is passed through the API.
 2. **Processing:** The prompt is sent to the Stable Diffusion model via AWS Lambda, which generates an image.
 3. **Storage:** The image is saved to an S3 bucket and a pre-signed URL is returned.
-
-![Uploading image generation.png…]()
+![image generation](https://github.com/user-attachments/assets/f1e00fc6-fe8a-4220-8560-705cb5f4bfcd)
 
 
 ## API Gateway Setup
